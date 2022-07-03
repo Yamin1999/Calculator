@@ -1,0 +1,133 @@
+
+.header
+{
+
+  margin-left: 30px;
+  box-sizing: border-box;
+  display: inline-block;
+  padding: 10px 30px;
+  font-weight: lighter;
+  text-decoration: none;
+  border-radius: 5px;
+  text-transform: uppercase;
+
+  background-color: #999999;
+  color: black;
+
+  border: 1px solid gray;
+}
+table
+{
+  height: 20px;
+  width: 50px;
+  flex: center;
+  text-align: center;
+}
+
+.btton
+{
+
+  margin-left: 1100px;
+  box-sizing: border-box;
+  display: inline-block;
+  padding: 10px 30px;
+
+
+  border-radius: 5px;
+  text-transform: uppercase;
+
+  background-color: #007bff;
+  color:  white;
+
+  border: 1px solid gray;
+}
+.btton a
+{
+  padding: 5px 0;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 90%;
+  font-weight: 500;
+}
+.btton a:hover
+{
+  padding: 5px 0;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 90%;
+  font-weight: 500;
+}
+
+
+.link{  text-decoration: none;  color: #fff;}
+
+.link:hover
+{
+  text-decoration: none;  color: #fff;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
+
+
+.login-page
+{
+width: 300px;
+
+margin:10% 38% 0 ;
+}
+
+
+
+
+.form
+{
+
+
+    background: transparent;
+    max-width:300px;
+
+
+
+    text-align: center;
+
+
+}
+
+
+
+select
+{
+
+
+   font-family: 'Flamenco', cursive;
+     outline: 1;
+     background: transparent;
+     width: 50%;
+     border: 2px solid white;
+
+  border-radius: 200px;
+     margin: 0 0 10px;
+     padding: 10px;
+     box-sizing: border-box;
+     font-size: 14px;
+
+
+
+}
